@@ -75,6 +75,8 @@ target/
 # celery beat schedule file
 celerybeat-schedule
 
+*.ipynb linguist-documentation
+
 # SageMath parsed files
 *.sage.py
 
