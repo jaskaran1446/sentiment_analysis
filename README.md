@@ -1,2 +1,2 @@
 # sentiment_analysis
-A convoutional sentiment classifier for IMDb reviews
+A convolutional sentiment classifier for IMDb reviews using torchtext. 
